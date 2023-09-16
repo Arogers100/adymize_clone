@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.814551c0.css",
+    "main.js": "./static/js/main.f8703449.js",
+    "static/media/idigital.png": "./static/media/idigital.d083b6edca2111b82874.png",
+    "static/media/namhyafoods.png": "./static/media/namhyafoods.3adcaec773f2ee4c6d35.png",
+    "static/media/aadhaar.png": "./static/media/aadhaar.0360dd561ae733dc1143.png",
+    "static/media/bg.jpg": "./static/media/bg.3e81712066f3b815cdf1.jpg",
+    "static/media/mba.png": "./static/media/mba.90c8a939133e3d57b548.png",
+    "static/media/Final_GIF.gif": "./static/media/Final_GIF.3d16e76f8ba09c0c142b.gif",
+    "static/media/socialicon.png": "./static/media/socialicon.9047859855b885832727.png",
+    "static/media/aryanpic.png": "./static/media/aryanpic.488fa6f48701178ac9de.png",
+    "static/media/youngovator.png": "./static/media/youngovator.cac0c1ece7b061920692.png",
+    "static/media/school.png": "./static/media/school.ab6c97ab3e75e503fe40.png",
+    "static/media/astro.jpg": "./static/media/astro.3b1df2cd8830ce3441ce.jpg",
+    "static/media/postericon.png": "./static/media/postericon.c5e649feb637b7b51a2d.png",
+    "static/media/learnobox.png": "./static/media/learnobox.73449d2f11341892c1b3.png",
+    "static/media/lakme.png": "./static/media/lakme.062f03683fdbabea92d5.png",
+    "static/media/tech.png": "./static/media/tech.1ea58c4b2ef34b0463ef.png",
+    "static/media/videoediticon.png": "./static/media/videoediticon.d98c106f9a4f23b757ee.png",
+    "static/media/fbicon.png": "./static/media/fbicon.f9ec1d14df6be8a5c638.png",
+    "static/media/pressicon.png": "./static/media/pressicon.39553c31294dbb329c77.png",
+    "static/media/influencericon.png": "./static/media/influencericon.689f5aacdca819a7832a.png",
+    "static/media/conker.png": "./static/media/conker.ce0580594b52020f7345.png",
+    "static/media/conkerworld.jpg": "./static/media/conkerworld.060770406d58cafdac50.jpg",
+    "static/media/media.png": "./static/media/media.9ed3ac9977af52af61ae.png",
+    "static/media/propereT.png": "./static/media/propereT.e05d95c82d534eb7f21c.png",
+    "static/media/certifiedPartner.png": "./static/media/certifiedPartner.104d084b5b29f5851815.png",
+    "static/media/gicon.png": "./static/media/gicon.ac95f7b8ddf2eafece5f.png",
+    "static/media/webdevicon.png": "./static/media/webdevicon.df9e9d436507d87b3a0f.png",
+    "static/media/consultanceicon.webp": "./static/media/consultanceicon.acebbd0873a1ae227366.webp",
+    "index.html": "./index.html",
+    "main.814551c0.css.map": "./static/css/main.814551c0.css.map",
+    "main.f8703449.js.map": "./static/js/main.f8703449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.814551c0.css",
+    "static/js/main.f8703449.js"
+  ]
+}
