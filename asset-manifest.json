@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.814551c0.css",
-    "main.js": "./static/js/main.f8703449.js",
+    "main.css": "./static/css/main.c1a70e8a.css",
+    "main.js": "./static/js/main.0f294906.js",
     "static/media/idigital.png": "./static/media/idigital.d083b6edca2111b82874.png",
     "static/media/namhyafoods.png": "./static/media/namhyafoods.3adcaec773f2ee4c6d35.png",
     "static/media/aadhaar.png": "./static/media/aadhaar.0360dd561ae733dc1143.png",
@@ -30,11 +30,11 @@
     "static/media/webdevicon.png": "./static/media/webdevicon.df9e9d436507d87b3a0f.png",
     "static/media/consultanceicon.webp": "./static/media/consultanceicon.acebbd0873a1ae227366.webp",
     "index.html": "./index.html",
-    "main.814551c0.css.map": "./static/css/main.814551c0.css.map",
-    "main.f8703449.js.map": "./static/js/main.f8703449.js.map"
+    "main.c1a70e8a.css.map": "./static/css/main.c1a70e8a.css.map",
+    "main.0f294906.js.map": "./static/js/main.0f294906.js.map"
   },
   "entrypoints": [
-    "static/css/main.814551c0.css",
-    "static/js/main.f8703449.js"
+    "static/css/main.c1a70e8a.css",
+    "static/js/main.0f294906.js"
   ]
 }
