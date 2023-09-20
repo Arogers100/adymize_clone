@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.4d991940.css",
-    "main.js": "./static/js/main.f023474e.js",
-    "static/media/idigital.png": "./static/media/idigital.d083b6edca2111b82874.png",
-    "static/media/namhyafoods.png": "./static/media/namhyafoods.3adcaec773f2ee4c6d35.png",
-    "static/media/aadhaar.png": "./static/media/aadhaar.0360dd561ae733dc1143.png",
+    "main.css": "./static/css/main.ee1820ac.css",
+    "main.js": "./static/js/main.5d61ec16.js",
     "static/media/bg.jpg": "./static/media/bg.3e81712066f3b815cdf1.jpg",
-    "static/media/mba.png": "./static/media/mba.90c8a939133e3d57b548.png",
     "static/media/Final_GIF.gif": "./static/media/Final_GIF.3d16e76f8ba09c0c142b.gif",
     "static/media/socialicon.png": "./static/media/socialicon.9047859855b885832727.png",
     "static/media/aryanpic.png": "./static/media/aryanpic.488fa6f48701178ac9de.png",
+    "static/media/astro.png": "./static/media/astro.9da4f2741ab7ebf4dc4c.png",
+    "static/media/idigital.png": "./static/media/idigital.efad190f402958e64138.png",
     "static/media/youngovator.png": "./static/media/youngovator.cac0c1ece7b061920692.png",
+    "static/media/namyafoods.png": "./static/media/namyafoods.8cf5ee39cd9fa89db269.png",
+    "static/media/aadhaar.png": "./static/media/aadhaar.886d7849b49694bda8cc.png",
     "static/media/school.png": "./static/media/school.ab6c97ab3e75e503fe40.png",
-    "static/media/astro.jpg": "./static/media/astro.3b1df2cd8830ce3441ce.jpg",
+    "static/media/mba.png": "./static/media/mba.0bd8df25cbc6fe68b31c.png",
     "static/media/postericon.png": "./static/media/postericon.c5e649feb637b7b51a2d.png",
+    "static/media/conkerworld.png": "./static/media/conkerworld.00e6dac7bb5bd3cf890a.png",
     "static/media/learnobox.png": "./static/media/learnobox.73449d2f11341892c1b3.png",
     "static/media/lakme.png": "./static/media/lakme.062f03683fdbabea92d5.png",
     "static/media/tech.png": "./static/media/tech.1ea58c4b2ef34b0463ef.png",
@@ -22,7 +23,6 @@
     "static/media/pressicon.png": "./static/media/pressicon.39553c31294dbb329c77.png",
     "static/media/influencericon.png": "./static/media/influencericon.689f5aacdca819a7832a.png",
     "static/media/conker.png": "./static/media/conker.ce0580594b52020f7345.png",
-    "static/media/conkerworld.jpg": "./static/media/conkerworld.060770406d58cafdac50.jpg",
     "static/media/media.png": "./static/media/media.9ed3ac9977af52af61ae.png",
     "static/media/propereT.png": "./static/media/propereT.e05d95c82d534eb7f21c.png",
     "static/media/certifiedPartner.png": "./static/media/certifiedPartner.104d084b5b29f5851815.png",
@@ -30,11 +30,11 @@
     "static/media/webdevicon.png": "./static/media/webdevicon.df9e9d436507d87b3a0f.png",
     "static/media/consultanceicon.webp": "./static/media/consultanceicon.acebbd0873a1ae227366.webp",
     "index.html": "./index.html",
-    "main.4d991940.css.map": "./static/css/main.4d991940.css.map",
-    "main.f023474e.js.map": "./static/js/main.f023474e.js.map"
+    "main.ee1820ac.css.map": "./static/css/main.ee1820ac.css.map",
+    "main.5d61ec16.js.map": "./static/js/main.5d61ec16.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d991940.css",
-    "static/js/main.f023474e.js"
+    "static/css/main.ee1820ac.css",
+    "static/js/main.5d61ec16.js"
   ]
 }
